@@ -3,7 +3,7 @@
 	"Advertiser": "Lexus",
 	"Campaign": "Lexus_CY19 Lexus LDA East_Team One_40439",
 	"Publisher": "NCC Digital Media",
-	PixelTags:[
+	Tags:[
 		{
 			"PlacementID": 1440612,
 			"PlacementName": "NCC_East_New York_Addressable NCC GO RX 2_TVE_:30 Video_1x1_08012019-09022019",

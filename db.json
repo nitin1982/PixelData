@@ -12,17 +12,17 @@
 			"Events": [
 				{
 					"Event": "VIDEO DOWNLOAD",
-					"TrackingPixel": "http://static.innovid.com/assets/67876/304216/index.html",
+					"TrackingPixel": "urls",
 					"AdditionalTrackingPixel": false
 				},
 				{
 					"Event": "Impression",
-					"TrackingPixel": "https://dts.innovid.com/placement/1id3tq/video/1nbqbc/action/play/cb/[timestamp]",
+					"TrackingPixel": "urls",
 					"AdditionalTrackingPixel": false
 				},
 				{
 					"Event": "Impression",
-					"TrackingPixel": "https://stags.bluekai.com/site/45284?limit=1&phint=event%3Dimp&phint=cid%3D67876&phint=vid%3D1227&phint=crid%3DTZARET00025H_2019_RX_350_AWD____Innovid&phint=pid%3D",
+					"TrackingPixel": "urls",
 					"AdditionalTrackingPixel": true
 				}
 			]		
@@ -35,17 +35,17 @@
 			"Events": [
 				{
 					"Event": "VIDEO DOWNLOAD",
-					"TrackingPixel": "http://static.innovid.com/assets/67876/304216/index.html",
+					"TrackingPixel": "urls",
 					"AdditionalTrackingPixel": false
 				},
 				{
 					"Event": "Impression",
-					"TrackingPixel": "https://dts.innovid.com/placement/1id3tq/video/1nbqbc/action/play/cb/[timestamp]",
+					"TrackingPixel": "urls",
 					"AdditionalTrackingPixel": false
 				},
 				{
 					"Event": "Impression",
-					"TrackingPixel": "https://stags.bluekai.com/site/45284?limit=1&phint=event%3Dimp&phint=cid%3D67876&phint=vid%3D1227&phint=crid%3DTZARET00025H_2019_RX_350_AWD____Innovid&phint=pid%3D",
+					"TrackingPixel": "urls",
 					"AdditionalTrackingPixel": true
 				}
 			]		
